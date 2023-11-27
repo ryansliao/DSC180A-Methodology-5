@@ -1,4 +1,4 @@
-# Capstone Example Jekyll Website
+# DSC 180A Methodology Assignment 5
 
 Name: Ryan Liao \\
 Email: rsliao@ucsd.edu
