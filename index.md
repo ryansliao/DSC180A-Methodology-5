@@ -1,9 +1,9 @@
 # Capstone Example Jekyll Website
 
-Name: Ryan Liao
+Name: Ryan Liao \\
 Email: rsliao@ucsd.edu
 
-Section: B10
+Section: B10 \\
 Mentor: Bhargava Sana
 
 1. What is the most interesting topic covered in your domain this quarter?
